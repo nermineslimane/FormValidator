@@ -1,0 +1,9 @@
+.hide {
+  display: none !important;
+}
+
+.text-danger {
+  display: block;
+  color: red;
+  padding: 5px 0 15px;
+}
